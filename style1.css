@@ -1,0 +1,25 @@
+h2{
+	color: yellow;
+}
+
+h1{
+	color: red;
+	text-align : center;
+}
+
+.text-center{
+	text-align : center;
+}
+
+.greencolor
+{
+	color:green;
+}
+
+.bluecolor{
+	color:blue;
+}
+
+#greencolors{
+	color: green;
+}
